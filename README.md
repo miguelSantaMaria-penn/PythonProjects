@@ -1,2 +1,2 @@
 # PythonProjects
-Directory containing projects that I am working on while learning Python. 
+Repo containing projects I am working on while learning Python. Will continously add more! 
